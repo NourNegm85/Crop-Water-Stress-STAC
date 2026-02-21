@@ -31,7 +31,11 @@ All data are accessed programmatically using STAC APIs.
 ---
 ## Workflow
 
-![Technical Workflow Diagram](outputs/workflow_diagram.png)
+<p align="center">
+  <img src="outputs/workflow_diagram.png" alt="Technical Workflow Diagram" width="500">
+  <br>
+  <em> The data fusion and processing pipeline.</em>
+</p>
 
 ### 1. Data Access
 - STAC search and filtering
