@@ -1,0 +1,9 @@
+pystac-client
+odc-stac
+xarray
+rioxarray
+pandas
+matplotlib
+geopandas
+dask
+netCDF4
