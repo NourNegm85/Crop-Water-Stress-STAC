@@ -76,7 +76,7 @@ Outputs:
 All required packages are listed in `requirements.txt`.
 
 ## Repository Structure
-
+```text
 Crop-Water-Stress-STAC/
 │
 ├── notebooks/
@@ -84,11 +84,11 @@ Crop-Water-Stress-STAC/
 │
 ├── outputs/                          # Generated figures and maps
 │   
-│├── .gitignore                        
+├── .gitignore                        
 ├── requirements.txt                  # List of Python libraries needed
 ├── LICENSE                           
 └── README.md                         
-
+```
 ## 📖 How to Use This Repository
 
 ### 1️⃣ Watch the Tutorial Video
