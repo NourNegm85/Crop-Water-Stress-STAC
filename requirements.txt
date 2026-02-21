@@ -1,0 +1,10 @@
+pystac-client
+odc-stac
+planetary_computer
+xarray
+rioxarray
+pandas
+matplotlib
+geopandas
+dask
+netCDF4
