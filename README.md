@@ -31,6 +31,8 @@ All data are accessed programmatically using STAC APIs.
 ---
 ## Workflow
 
+![Technical Workflow Diagram](outputs/workflow_diagram.png)
+
 ### 1. Data Access
 - STAC search and filtering
 - Cloud filtering
