@@ -83,6 +83,8 @@ Crop-Water-Stress-STAC/
 │   └── water_stress_analysis.ipynb   #  Jupyter Notebook
 │
 ├── outputs/                          # Generated figures and maps
+│   ├── workflow_diagram.png          
+│   └── final_result_map.png          # A combined or best result maps
 │   
 ├── .gitignore                        
 ├── requirements.txt                  # List of Python libraries needed
