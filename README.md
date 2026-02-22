@@ -58,7 +58,7 @@ This allows relative drought detection independent of seasonal temperature varia
 ### 4. Irrigation Decision Mapping
 Binary irrigation maps are generated using rule-based thresholds:
 
-- TVDI > defined threshold  
+- TVDI > defined threshold  (0.6)
 
 Outputs:
 - GeoTIFF irrigation maps
