@@ -55,6 +55,17 @@ TVDI = (LST - LST_min) / (LST_max - LST_min)
 
 This allows relative drought detection independent of seasonal temperature variation.
 
+#### **3.1 Biophysical Validation (NDVI-LST Feature Space)**
+Before generating the final drought maps, we validate the data by plotting the **NDVI-LST Feature Space**. In arid regions like Minya, this relationship forms a "Triangle" shape. 
+
+* **Dry Edge ($LST_{max}$):** The upper limit where soil moisture is a limiting factor for evapotranspiration.
+* **Wet Edge ($LST_{min}$):** The lower limit representing well-watered conditions.
+
+I utilize **Plotly** for this step to allow for **interactive inspection** of crop pivots. 
+
+#### **3.2 Spatial Mapping of Water Stress**
+Once validated, the TVDI is projected back into a spatial context. This converts abstract thermal data into an actionable **Drought Sensitivity Map**.
+
 ### 4. Irrigation Decision Mapping
 Binary irrigation maps are generated using rule-based thresholds:
 
