@@ -111,7 +111,7 @@ Crop-Water-Stress-STAC/
 
 ### 1️⃣ Watch the Tutorial Video
 📺 **YouTube:**  
-👉 *[[LINK]()]*
+👉 *[[LINK](https://youtu.be/TJ4i3amKbEw?si=RFccr6l00u4iAy-J)]*
 
 The notebook follows the video step by step.
 
